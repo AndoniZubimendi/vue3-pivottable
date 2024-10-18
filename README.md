@@ -18,7 +18,7 @@ Additionally the component emits events when internal settings have changed
 ## Installation
 
 ```shall
-npm i https://github.com/chikko80/vue3-pivottable
+npm i https://github.com/AndoniZubimendi/vue3-pivottable
 ```
 
 ## Usage
